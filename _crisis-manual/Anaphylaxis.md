@@ -9,8 +9,7 @@ E.g chlorhexidine, antibiotics, muscle relaxants, dyes, blood products, latex, c
 Identify leader + consider stopping procedure
 ##### 3. Maintain and secure airway; Use 100% Oxygen
 Intubate if airway oedema or potential respiratory compromise
-##### 4. Give IV Crystalloids fast (20 ml/kg); repeat as
-required
+##### 4. Give IV Crystalloids fast (20 ml/kg); repeat as required
 Turn off volatile anaesthetics and consider amnestic agent (e.g. midazolam)
 ##### 5. Give IV Adrenaline; repeat as required
 Consider insertion of IA/CVP lines; Consider TTE/TEE to assess filling
