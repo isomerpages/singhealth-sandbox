@@ -1,7 +1,0 @@
-collections:
-  crisis-manual:
-    output: true
-    order:
-      - Anaphylaxis.md
-      - Anaphylaxis Details/.keep
-      - Anaphylaxis Details/Drug Doses.md
