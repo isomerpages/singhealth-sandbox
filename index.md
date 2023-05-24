@@ -14,6 +14,8 @@ sections:
         options:
           - title: Anaphylaxis
             url: /anaphylaxis/steps/
+          - title: Needle Cricothyroidotomy
+            url: /needle-cricothyroidotomy/steps/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
