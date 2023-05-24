@@ -1,5 +1,5 @@
 collections:
-  anaphylaxis:
+  crisis-manual:
     output: true
     order:
       - example-page.md
