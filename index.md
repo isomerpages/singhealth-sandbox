@@ -10,7 +10,7 @@ sections:
       title: Crisis Manual
       background: /images/hero-banner.png
       dropdown:
-        title: Crisis situation
+        title: Select crisis situation
         options:
           - title: Anaphylaxis
             url: /anaphylaxis/steps/
