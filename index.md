@@ -10,7 +10,7 @@ sections:
       title: Crisis Manual
       background: /images/hero-banner.png
       dropdown:
-        title: "Crisis situation "
+        title: Crisis situation
         options: []
   - infobar:
       title: Infobar title
