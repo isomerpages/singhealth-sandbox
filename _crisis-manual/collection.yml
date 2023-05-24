@@ -2,4 +2,4 @@ collections:
   crisis-manual:
     output: true
     order:
-      - example-page.md
+      - Anaphylaxis.md
