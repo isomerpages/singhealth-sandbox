@@ -1,4 +1,5 @@
 collections:
   needle-cricothyroidotomy:
     output: true
-    order: []
+    order:
+      - "Difficult Airway: Needle Cricothyroidotomy Steps.md"
