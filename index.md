@@ -13,7 +13,7 @@ sections:
         title: Crisis situation
         options:
           - title: Anaphylaxis
-            url: /anaphylaxis/
+            url: /anaphylaxis/steps/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
