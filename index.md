@@ -11,7 +11,9 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: Crisis situation
-        options: []
+        options:
+          - title: Anaphylaxis
+            url: /anaphylaxis/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
