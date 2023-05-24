@@ -11,7 +11,7 @@ Identify leader + consider stopping procedure
 Intubate if airway oedema or potential respiratory compromise
 ##### 4. Give IV Crystalloids fast (20 ml/kg); repeat as required
 Turn off volatile anaesthetics and consider amnestic agent (e.g. midazolam)
-##### 5. Give IV Adrenaline; repeat as required
+##### 5. Give IV [Adrenaline](/crisis-manual/anaphylaxis-details/drug-doses/); repeat as required
 Consider insertion of IA/CVP lines; Consider TTE/TEE to assess filling
 Consider IV Adrenaline infusion if repeated boluses required
 Refractory hypotension : Consider IV fluid bolus (50ml/kg)
