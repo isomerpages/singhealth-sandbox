@@ -1,0 +1,4 @@
+collections:
+  surgical-cricothyroidotomy:
+    output: true
+    order: []
