@@ -1,0 +1,4 @@
+collections:
+  anaphylaxis:
+    output: true
+    order: []
