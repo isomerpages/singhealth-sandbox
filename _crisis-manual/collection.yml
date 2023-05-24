@@ -2,4 +2,5 @@ collections:
   crisis-manual:
     output: true
     order:
+      - Anaphylaxis Details/.keep
       - Anaphylaxis.md
