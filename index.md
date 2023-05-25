@@ -16,6 +16,8 @@ sections:
             url: /anaphylaxis/steps/
           - title: Needle Cricothyroidotomy
             url: /needle-cricothyroidotomy/steps1/
+          - title: Surgical Cricothyroidotomy
+            url: /surgical-cricothyroidotomy/permalink/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
