@@ -15,4 +15,4 @@ dissection using scalpel-bougie-tube technique ( ALGORITHM 6 )
 * Stab over midpoint of cricothyroid membrane, at an angle 45-60 degree to the skin, in a caudad direction
 * On aspiration of air into 5ml syringe, advance 2mm and confirm aspiration of air again before advancing catheter over needle
 
-##### 4. Connect Rapid Oxygen to auxiliary oxygen source on ANAESTHETIC MACHINE at 15L/min, and connect luer-lock end to catheter
+##### 4. Connect [Rapid Oxygen](/needle-cricothyroidotomy/rapid-oxygen/) to auxiliary oxygen source on ANAESTHETIC MACHINE at 15L/min, and connect luer-lock end to catheter
