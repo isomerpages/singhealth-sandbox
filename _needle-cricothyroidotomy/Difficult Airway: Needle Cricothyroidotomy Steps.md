@@ -1,5 +1,5 @@
 ---
-title: "Difficult Airway: Needle Cricothyroidotomy Steps"
+title: "Difficult Airway Needle Cricothyroidotomy Steps"
 permalink: /needle-cricothyroidotomy/steps/
 description: ""
 ---
