@@ -2,6 +2,6 @@ collections:
   needle-cricothyroidotomy:
     output: true
     order:
-      - Difficult Airway: Needle Cricothyroidotomy Steps.md
+      - Difficult Airway Needle Cricothyroidotomy Steps.md
       - Needle Cricothyroidotomy Steps.md
       - Use of Rapid Oxygen.md
