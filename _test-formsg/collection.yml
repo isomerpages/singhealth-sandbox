@@ -1,4 +1,5 @@
 collections:
   test-formsg:
     output: true
-    order: []
+    order:
+      - formsg.md
