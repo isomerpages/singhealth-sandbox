@@ -17,7 +17,7 @@ sections:
           - title: Needle Cricothyroidotomy
             url: /needle-cricothyroidotomy/steps1/
           - title: Surgical Cricothyroidotomy
-            url: /surgical-cricothyroidotomy/permalink/
+            url: /surgical-cricothyroidotomy/steps/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
