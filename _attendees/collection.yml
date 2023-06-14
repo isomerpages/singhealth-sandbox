@@ -2,4 +2,5 @@ collections:
   attendees:
     output: true
     order:
+      - terms-of-use.md
       - Guest of Honor.md
