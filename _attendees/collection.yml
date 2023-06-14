@@ -1,4 +1,5 @@
 collections:
   attendees:
     output: true
-    order: []
+    order:
+      - Guest of Honor.md
