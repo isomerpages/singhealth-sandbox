@@ -2,4 +2,5 @@ collections:
   project-showcase:
     output: true
     order:
+      - Project Showcase 2.md
       - Project Showcase 1.md
