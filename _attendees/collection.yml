@@ -1,0 +1,4 @@
+collections:
+  attendees:
+    output: true
+    order: []
