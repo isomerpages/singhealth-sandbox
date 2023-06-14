@@ -1,4 +1,5 @@
 collections:
   project-showcase:
     output: true
-    order: []
+    order:
+      - Project Showcase 1.md
