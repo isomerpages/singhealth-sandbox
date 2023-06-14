@@ -1,0 +1,4 @@
+collections:
+  project-showcase:
+    output: true
+    order: []
