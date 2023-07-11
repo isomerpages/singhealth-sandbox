@@ -1,0 +1,4 @@
+collections:
+  landing-page:
+    output: true
+    order: []
