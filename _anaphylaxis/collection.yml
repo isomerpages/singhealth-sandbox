@@ -1,6 +1,0 @@
-collections:
-  anaphylaxis:
-    output: true
-    order:
-      - Anaphylaxis Steps.md
-      - Anaphylaxis Drug Doses.md
