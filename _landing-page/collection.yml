@@ -2,4 +2,5 @@ collections:
   landing-page:
     output: true
     order:
+      - Project Showcase.md
       - Programme Shedule.md
