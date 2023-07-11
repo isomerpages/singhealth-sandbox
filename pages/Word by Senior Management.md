@@ -3,4 +3,4 @@ title: Word by Senior Management
 permalink: /permalink/
 description: ""
 ---
-Keen to know more about the launch?  Click on the link to find out more!
+Let's hear from SingHealth Senior Management about the healthcare innovation / A.L.I.C.E  @ SGH Campus
