@@ -2,5 +2,6 @@ collections:
   landing-page:
     output: true
     order:
+      - Reverse GuideBook.md
       - Project Showcase.md
       - Programme Shedule.md
