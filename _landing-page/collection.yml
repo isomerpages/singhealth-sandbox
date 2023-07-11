@@ -2,6 +2,7 @@ collections:
   landing-page:
     output: true
     order:
+      - Word by Senior Management.md
       - The journey of Innovation.md
       - Reverse GuideBook.md
       - Project Showcase.md
