@@ -1,4 +1,5 @@
 collections:
   landing-page:
     output: true
-    order: []
+    order:
+      - Programme Shedule.md
