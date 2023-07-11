@@ -7,30 +7,12 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Crisis Manual
+      title: "A.L.I.C.E @ SGH Campus Logo "
       background: /images/hero-banner.png
-      dropdown:
-        title: Select crisis situation
-        options:
-          - title: Anaphylaxis
-            url: /anaphylaxis/steps/
-          - title: Needle Cricothyroidotomy
-            url: /needle-cricothyroidotomy/steps1/
-          - title: Surgical Cricothyroidotomy
-            url: /surgical-cricothyroidotomy/steps/
-          - title: Test Form
-            url: /test-formsg/permalink/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Welcome to A.L.I.C.E @ SGH campus launch site
       button: Button text
       url: /faq/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
