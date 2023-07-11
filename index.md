@@ -14,7 +14,10 @@ sections:
       button: Button text
       url: /faq/
   - infobar:
-      title: "About the Event "
+      title: About the Event
       button: Find out more here
       url: (137) Celebrating The Mario Community & 100 BILLION Views - YouTube
+  - resources:
+      title: Resources Section Title
+      button: Resources Button Name
 ---
