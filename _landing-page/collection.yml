@@ -2,8 +2,8 @@ collections:
   landing-page:
     output: true
     order:
+      - Programme Shedule.md
       - Word by Senior Management.md
+      - Project Showcase.md
       - The journey of Innovation.md
       - Reverse GuideBook.md
-      - Project Showcase.md
-      - Programme Shedule.md
