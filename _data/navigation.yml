@@ -1,12 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "Launch "
+  - title: Launch
     url: /example-page/
   - title: Attendees
     collection: example-folder
   - title: Contact Us
     url: /contact-us/
-  - title: Project Showcase
-    collection: anaphylaxis
-  - title: "Innovators stories "
-    collection: anaphylaxis
