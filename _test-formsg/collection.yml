@@ -1,0 +1,5 @@
+collections:
+  test-formsg:
+    output: true
+    order:
+      - formsg.md

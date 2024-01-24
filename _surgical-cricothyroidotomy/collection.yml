@@ -1,0 +1,5 @@
+collections:
+  surgical-cricothyroidotomy:
+    output: true
+    order:
+      - Surgical Cricothyroidotomy Steps.md

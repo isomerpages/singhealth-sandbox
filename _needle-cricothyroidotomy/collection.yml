@@ -1,0 +1,6 @@
+collections:
+  needle-cricothyroidotomy:
+    output: true
+    order:
+      - Needle Cricothyroidotomy Steps.md
+      - Use of Rapid Oxygen.md

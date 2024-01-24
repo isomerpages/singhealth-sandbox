@@ -1,0 +1,5 @@
+collections:
+  launch:
+    output: true
+    order:
+      - faq.md
